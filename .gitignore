@@ -10,3 +10,8 @@
 .web-server-pid
 ###< symfony/web-server-bundle ###
 .idea
+data
+
+###> phpunit/phpunit ###
+/phpunit.xml
+###< phpunit/phpunit ###
